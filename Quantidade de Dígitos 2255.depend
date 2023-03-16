@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611167172 source:c:\users\israel alves\desktop\quantidade de dígitos 2255\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
